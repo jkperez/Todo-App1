@@ -1,4 +1,4 @@
-body { background-color: #FF0000; color: ##FFD700; }
+body { background-color: #FF0000; color: #FFD700; }
 
 body, p, ol, ul, td {
   font-family: verdana, arial, helvetica, sans-serif;
@@ -7,14 +7,14 @@ body, p, ol, ul, td {
 }
 
 pre {
-  background-color: ##1E90FF;
+  background-color: #1E90FF;
   padding: 10px;
   font-size: 11px;
 }
 
-a { color: ##FFD700; }
+a { color: #FFD700; }
 a:visited { color: #666; }
-a:hover { color: #00FA9A; background-color:##FFFF00; }
+a:hover { color: #00FA9A; background-color:#FFFF00; }
 
 div.field, div.actions {
   margin-bottom: 10px;
@@ -27,7 +27,7 @@ div.field, div.actions {
 .field_with_errors {
   padding: 2px;
   background-color: red;
-  display: table;
+/*  display: table;*/
 }
 
 #error_explanation {
